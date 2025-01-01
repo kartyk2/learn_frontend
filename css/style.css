@@ -266,3 +266,9 @@ footer a:hover {
     transform: scale(1.1);
     color: #38A89D;
 }
+
+.icon-img {
+    width: 40px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
